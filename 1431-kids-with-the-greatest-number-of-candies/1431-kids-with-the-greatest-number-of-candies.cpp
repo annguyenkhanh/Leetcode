@@ -15,4 +15,4 @@ public:
 };
 
 //mindset:
-// tạo 1 giá trị max, và 1 vòng for từng Kid, + extra cho kid đó, nếu lớn hơn max thì true không thì false
+// tạo 1 giá trị max, và 1 vòng for từng Kid, + extra cho kid đó, nếu lớn hơn hoặc bằng max thì true không thì false
